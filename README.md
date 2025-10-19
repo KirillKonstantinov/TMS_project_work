@@ -12,7 +12,7 @@
 ## 📦 Датасет
 **Online Retail Dataset** — данные о покупках интернет-магазина (InvoiceNo, Description, Quantity, UnitPrice, CustomerID, Country, InvoiceDate).
 
-Источник: [UCI / Kaggle Open Data](https://www.kaggle.com/datasets/mashlyn/online-retail-ii)
+Источник: [UCI / Kaggle Open Data](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data)
 
 ## ⚙️ Структура проекта
 project-retail/
