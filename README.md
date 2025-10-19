@@ -15,19 +15,7 @@
 Источник: [UCI / Kaggle Open Data](https://www.kaggle.com/datasets/mashlyn/online-retail-ii)
 
 ## ⚙️ Структура проекта
-project-retail/
-│
-├── README.md
-├── data/
-│ └── retail.csv
-├── notebooks/
-│ ├── 01_data_cleaning.ipynb
-│ ├── 02_ml_model.ipynb
-│ └── 03_presentation.ipynb
-├── results/
-│ ├── cluster_plot.png
-│ └── metrics.txt
-└── requirements.txt
+<pre> project-retail/ │ ├── README.md ├── data/ │ └── retail.csv ├── notebooks/ │ ├── 01_data_cleaning.ipynb │ ├── 02_ml_model.ipynb │ └── 03_presentation.ipynb ├── results/ │ ├── cluster_plot.png │ └── metrics.txt └── requirements.txt </pre>
 
 ## 🚀 Этапы проекта
 
